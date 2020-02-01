@@ -1,3 +1,6 @@
+###SystemInfo Program
+#Created: 2020-01-31
+
 import system_query
 import PySimpleGUI
 import pint 
